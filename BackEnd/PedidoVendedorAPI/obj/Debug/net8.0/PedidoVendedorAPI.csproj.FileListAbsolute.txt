@@ -1,0 +1,7 @@
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.csproj.AssemblyReference.cache
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.AssemblyInfoInputs.cache
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.AssemblyInfo.cs
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.csproj.CoreCompileInputs.cache
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suble\OneDrive\Escritorio\challenge-compra\BackEnd\PedidoVendedorAPI\obj\Debug\net8.0\PedidoVendedorAPI.MvcApplicationPartsAssemblyInfo.cache
